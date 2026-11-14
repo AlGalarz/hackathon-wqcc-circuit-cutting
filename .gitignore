@@ -1,0 +1,15 @@
+.venv/
+venv/
+env/
+python/
+01_*.ipynb
+02_*.ipynb
+03_*.ipynb
+planner-prompt.md
+WQCC-Planner-Materials.zip
+.ipynb_checkpoints/
+data/
+results/
+__pycache__/
+*.py[cod]
+.DS_Store
